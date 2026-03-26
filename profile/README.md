@@ -1,6 +1,6 @@
 <!-- Replace with your actual banner hosted at prismy.io or in this repo under profile/assets/ -->
 <!-- Recommended size: 1280x640px -->
-![Prismy - Modern localization for fast-shipping teams](https://github.com/user-attachments/assets/7f51e77a-06b9-4c49-be42-bdb9ecc80314)
+<img width="1280" height="640" alt="Prismy - Modern localization for fast-shipping teams" src="https://github.com/user-attachments/assets/92734b9e-3b3b-4f43-adb4-e18fe503ab16" />
 
 # Prismy: AI-powered localization for GitHub teams
 
